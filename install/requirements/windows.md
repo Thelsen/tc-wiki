@@ -2,7 +2,7 @@
 title: Windows Requirements
 description: 
 published: true
-date: 2026-05-09T12:32:38.914Z
+date: 2026-07-06T15:21:52.692Z
 tags: requirements, installation, setup, windows
 editor: markdown
 dateCreated: 2021-08-14T03:18:48.201Z
@@ -35,7 +35,7 @@ dateCreated: 2021-08-14T03:18:48.201Z
 Git Extensions adds some visual extras and an improved UI for Git.
 &nbsp;
 
-### 2. [Visual Studio 2022](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022){target=_blank}
+### 2. [Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022){target=_blank}
 > The installer for VS no longer installs the C++ compiler by default.
 {.is-warning}
 
