@@ -1,8 +1,8 @@
 ---
 title: player_levelstats
-description:
+description: 
 published: true
-date: 2023-07-11T21:42:16.695Z
+date: 2026-07-08T22:24:40.638Z
 tags: database, world, 3.3.5, 3.3.5a, 335, 335a, wotlk
 editor: markdown
 dateCreated: 2021-08-30T22:07:20.624Z
@@ -19,11 +19,11 @@ This table holds information on what stats are gained by characters when they le
 | [race](#race) | tinyint | unsigned | PRI | NO |  |  |  |
 | [class](#class) | tinyint | unsigned | PRI | NO |  |  |  |
 | [level](#level) | tinyint | unsigned | PRI | NO |  |  |  |
-| [str](#str) | tinyint | unsigned |  | NO |  |  |  |
-| [agi](#agi) | tinyint | unsigned |  | NO |  |  |  |
-| [sta](#sta) | tinyint | unsigned |  | NO |  |  |  |
-| [inte](#inte) | tinyint | unsigned |  | NO |  |  |  |
-| [spi](#spi) | tinyint | unsigned |  | NO |  |  |  |
+| [str](#str) | smallint | unsigned |  | NO |  |  |  |
+| [agi](#agi) | smallint | unsigned |  | NO |  |  |  |
+| [sta](#sta) | smallint | unsigned |  | NO |  |  |  |
+| [inte](#inte) | smallint | unsigned |  | NO |  |  |  |
+| [spi](#spi) | smallint | unsigned |  | NO |  |  |  |
 &nbsp;
 ## Description of fields
 
