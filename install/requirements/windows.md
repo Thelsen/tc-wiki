@@ -2,7 +2,7 @@
 title: Windows Requirements
 description: 
 published: true
-date: 2026-07-08T22:57:09.743Z
+date: 2026-07-08T23:06:02.248Z
 tags: requirements, installation, setup, windows
 editor: markdown
 dateCreated: 2021-08-14T03:18:48.201Z
@@ -148,7 +148,7 @@ If you download the Light version, it will not work. If you download the Light v
 ### (Optional)
 
 1. If you use different PCs to compile/run Trinity, install one of the following packages on your Server-PC to avoid missing dependencies (depending on your Visual Studio Version and your Server-PC Operating System)
-	- [Microsoft Visual C++ 2022 Redistributable Package](https://aka.ms/vc14/vc_redist.x64.exe){target=_blank}
+	- [Microsoft Visual C++ v14 Redistributable Package (for Visual Studio 2017–2026)](https://aka.ms/vc14/vc_redist.x64.exe){target=_blank}
 	- **<span style="color:red">NOTE: Whatever you do you CAN'T run TrinityCore on Windows XP or Windows Server 2003 or Windows Vista or Windows 7.</span>**
 2. [TortoiseGit](https://tortoisegit.org/){target=_blank}
 	- This instruction supports Git Extensions only, but TortoiseGit is another viable option if you're comfortable with the process.
